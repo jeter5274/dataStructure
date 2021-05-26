@@ -3,7 +3,7 @@ package com.javaex.doitprac.chap03;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Q6 {
+public class Q06 {
 
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);
